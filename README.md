@@ -14,8 +14,8 @@ This is a FastAPI application for managing items in an inventory. It allows you 
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/HarryVu298/Inventory_system_FastAPI.git
+   cd Inventory_system_FastAPI
    ```
 
 2. Create and activate a virtual environment:
